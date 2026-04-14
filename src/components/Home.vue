@@ -11,7 +11,7 @@
             </div>
             
             <h1 class="font-general-semibold text-5xl text-primary-dark dark:text-primary-light uppercase">
-                HI, KRYSLEE MIANO
+                Hello World
             </h1>
             <p class="font-general-medium mt-4 text-lg text-gray-500 dark:text-gray-400">
                 A First Year College Student
